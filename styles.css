@@ -4,7 +4,14 @@ body {
 h5 {
         text-align: center;
         font-size: 12pt;
-        color: #000099;
+        color: #e7505e;
+        margin-bottom: 5px;
+        text-decoration: underline;
+    }
+h1{
+        text-align: center;
+        font-size: 12pt;
+        color: #e7505e;
         margin-bottom: 5px;
         text-decoration: underline;
     }
