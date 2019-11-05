@@ -45,7 +45,9 @@ label {
 .is-center {
     text-align: center;
 }
-
+.about-p{  /* Paragraph text on about page*/ 
+  color: #e7505e
+}
 
 
 /*
