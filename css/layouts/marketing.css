@@ -28,7 +28,6 @@ label {
     max-width: 100%;
     height: auto;
 }
-
 /*
  * -- LAYOUT STYLES --
  * These are some useful classes which I will need
@@ -48,8 +47,9 @@ label {
 .about-p{  /* Paragraph text on about page*/ 
   color: #e7505e
 }
-
-
+.hide{ /*Spacing on local page*/
+    color: #ffffff
+}
 /*
  * -- PURE FORM STYLES --
  * Style the form inputs and labels
