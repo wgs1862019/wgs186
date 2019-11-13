@@ -52,6 +52,9 @@ label {
 .about-p{  /* Paragraph text on about page*/ 
   color: #e7505e
 }
+.aboutprofessors{
+    color:#f25e8b
+}
 .hide{ /*Spacing on local page*/
     color: #ffffff
 }
