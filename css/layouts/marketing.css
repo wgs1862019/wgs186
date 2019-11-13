@@ -50,22 +50,22 @@ label {
     text-align: center;
 }
 .about-p{  /* Paragraph text on about page*/ 
-  color: #e7505e
+  color: #e7505e !important;
 }
 .localblurb{
- color:#f6607a
+ color:#f6607a !important;
 }
 .wgs186{
-  color:#ec5a73
+  color:#ec5a73 !important;
 }
 .aboutprofessors{
-    color:#f25e8b
+    color:#f25e8b !important;
 }
 .coursedescription{
-    color:#fb8a9d
+    color:#fb8a9d !important;
 }
 .hide{ /*Spacing on local page*/
-    color: #ffffff
+    color: #ffffff;
 }
 /*
  * -- PURE FORM STYLES --
