@@ -18,7 +18,6 @@ body {
     color: #fadadd;
     font-size: 13px;
 }
-
 h1,
 h2,
 h3,
@@ -40,12 +39,10 @@ label {
 .l-box {
     padding: 1em;
 }
-
 .l-box-lrg {
     padding: 2em;
     border-bottom: 1px solid rgba(0,0,0,0.1);
 }
-
 .is-center {
     text-align: center;
 }
@@ -84,7 +81,6 @@ label {
     width: 100%;
     margin-bottom: 1em;
 }
-
 /*
  * -- PURE BUTTON STYLES --
  * I want my pure-button elements to look a little different
@@ -102,13 +98,10 @@ a.pure-button-primary {
     border-radius: 5px;
     font-size: 120%;
 }
-
-
 /*
  * -- MENU STYLES --
  * I want to customize how my .pure-menu looks at the top of the page
  */
-
 .home-menu {
     padding: 0.5em;
     text-align: center;
@@ -123,33 +116,27 @@ a.pure-button-primary {
     /* I need a higher z-index here because of the scroll-over effect. */
     z-index: 4;
 }
-
 .home-menu .pure-menu-heading {
     color: white;
     font-weight: 400;
     font-size: 120%;
 }
-
-.home-menu .pure-menu-selected a {
+/* .home-menu .pure-menu-selected a {
     color: white;
-}
-
-.home-menu a {
+} */
+/* .home-menu a {
     color: #6FBEF3;
-}
-.home-menu li a:hover,
+} */
+/* .home-menu li a:hover,
 .home-menu li a:focus {
     background: none;
     border: none;
     color: #ffc0cb;
-}
-
-
+} */
 /*
  * -- SPLASH STYLES --
  * This is the blue top section that appears on the page.
  */
-
 .splash-container {
     background: #FF81AD;
     z-index: 1;
