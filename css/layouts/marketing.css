@@ -27,6 +27,14 @@ h6,
 label {
     color: #e7505e;
 }
+a{
+color:#c7342a;
+text-decoration:none;
+}
+
+a.visited{
+color:#a61c12;
+}
 
 .pure-img-responsive {
     max-width: 100%;
