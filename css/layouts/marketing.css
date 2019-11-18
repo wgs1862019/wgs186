@@ -31,7 +31,9 @@ a{
 color:#c7342a;
 text-decoration:none;
 }
-
+.navbarfont{
+   font-size: 0.875em; 
+}   
 a.visited{
 color:#a61c12;
 }
