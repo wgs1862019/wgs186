@@ -30,9 +30,9 @@ a{
 color:#c7342a;
 text-decoration:none;
 }
-.navbarfont{
+/* .navbarfont{
    font-size: 9px !important; 
-}   
+}    */
 a.visited{
 color:#a61c12;
 }
@@ -118,10 +118,9 @@ a.pure-button-primary {
     padding: 0.5em;
     text-align: center;
     box-shadow: 0 1px 1px rgba(0,0,0, 0.10);
-}
-.home-menu {
     background: #ff0065;
 }
+
 .pure-menu.pure-menu-fixed {
     /* Fixed menus normally have a border at the bottom. */
     border-bottom: none;
@@ -305,32 +304,28 @@ a.pure-button-primary {
 }
 /* responsive vertical menu when horizontal is too small */
 .custom-wrapper {
-          background-color: #ffd390;
-          margin-bottom: 1em;
-          -webkit-font-smoothing: antialiased;
-          height: 2.1em;
+          background-color: #ffd390 !important;
+          margin-bottom: 1em !important;
+          -webkit-font-smoothing: antialiased !important;
+          height: 2.1em !important;
           overflow: hidden;
-          -webkit-transition: height 0.5s;
-          -moz-transition: height 0.5s;
-          -ms-transition: height 0.5s;
-          transition: height 0.5s;
+          -webkit-transition: height 0.5s !important;
+          -moz-transition: height 0.5s !important;
+          -ms-transition: height 0.5s !important;
+          transition: height 0.5s !important;
       }
       
       .custom-wrapper.open {
-          height: 14em;
-      }
-      
-      .custom-menu-3 {
-          text-align: right;
+          height: 14em !important;
       }
       
       .custom-toggle {
-          width: 34px;
-          height: 34px;
-          position: absolute;
-          top: 0;
-          right: 0;
-          display: none;
+          width: 34px !important;
+          height: 34px !important;
+          position: absolute !important;
+          top: 0 !important;
+          right: 0 !important;
+          display: none !important;
       }
       
       .custom-toggle .bar {
