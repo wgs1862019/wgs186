@@ -35,7 +35,7 @@ color:#a61c12;
     padding: 1em;
 }
 .l-box-lrg {
-    padding: 6em; 
+    padding: 5.5em; 
     border-bottom: 1px solid rgba(0,0,0,0.1);
 }
 .is-center {
@@ -261,5 +261,4 @@ a.pure-button-primary {
 }
 .navbarfont{
   font-size: 2.5vw !important;
-  color: #ffffff !important;
 }
